@@ -1,0 +1,5 @@
+(load "wizard_fns.lisp")
+(load "wizard_consts.lisp")
+(load "wizard_init_state.lisp")
+(load "wizard_commands.lisp")
+(load "wizard_repl.lisp")
